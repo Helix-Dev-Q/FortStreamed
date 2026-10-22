@@ -1,6 +1,6 @@
 # FortStreamed
 
-An archive of all Fortnite stream assets for [Reload](https://github.com/Helix-Dev-Q/FortStreamed#-Reload-Maps), [Blitz Royale](https://github.com/Helix-Dev-Q/FortStreamed#-Blitz-Royale-Maps), maybe more gamemodes. only versions above 42.40 will be archived but if you want more Fortnite streamed assets below 42.40 check out https://github.com/KPMisParrot/Fortnite-Streamed-Maps-Archive
+An archive of all Fortnite stream assets for [Reload](https://github.com/Helix-Dev-Q/FortStreamed#-Reload-Maps), [Blitz Royale](https://github.com/Helix-Dev-Q/FortStreamed#-Blitz-Royale-Maps), and potentially more gamemodes if they become streamed.  Only Ch7 S4 and up will be archived but if you want more Fortnite streamed assets below Ch7 S4 check out https://github.com/KPMisParrot/Fortnite-Streamed-Maps-Archive
 
 If you have anything that aren't on here, make a pull request if you want to contribute
 
